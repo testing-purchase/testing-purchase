@@ -41,3 +41,9 @@
 - [Post 2](https://yourblog.com/post2)
 - [Post 3](https://yourblog.com/post3)
 <!-- BLOG-POST-LIST:END -->
+
+## 📖 My daily.dev Profile
+
+<!-- Replace the src with your daily.dev widget URL -->
+[![daily.dev](https://api.daily.dev/devcards/yourdailydevusername.svg)](https://app.daily.dev/yourdailydevusername)
+
