@@ -1,6 +1,6 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Jobayer Hossen
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=jobayerhossen&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🛠️ Technologies & Tools
 
@@ -13,26 +13,26 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jobayerhossen&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayerhossen&layout=compact&theme=radical)
 
 ## 📈 Activity Graph
 
-[![Your GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Your GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jobayerhossen&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔗 Links
 
 - [Portfolio](https://yourportfolio.com)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/jobayerhossen)
+- [Twitter](https://twitter.com/jobayerhossen)
 - [Blog](https://yourblog.com)
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1&theme=radical)](https://github.com/yourusername/repo1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=radical)](https://github.com/yourusername/repo2)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo3&theme=radical)](https://github.com/yourusername/repo3)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jobayerhossen&repo=repo1&theme=radical)](https://github.com/jobayerhossen/repo1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jobayerhossen&repo=repo2&theme=radical)](https://github.com/jobayerhossen/repo2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jobayerhossen&repo=repo3&theme=radical)](https://github.com/jobayerhossen/repo3)
 
 ## 📝 Latest Blog Posts
 
@@ -44,6 +44,4 @@
 
 ## 📖 My daily.dev Profile
 
-<!-- Replace the src with your daily.dev widget URL -->
-[![daily.dev](https://api.daily.dev/devcards/yourdailydevusername.svg)](https://app.daily.dev/yourdailydevusername)
-
+[![daily.dev](https://api.daily.dev/devcards/jobayerhossen.svg)](https://app.daily.dev/jobayerhossen)
